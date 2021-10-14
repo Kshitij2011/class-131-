@@ -1,0 +1,10 @@
+body
+{
+background-position: center;
+background-size: cover;
+}
+
+canvas{
+    box-shadow:15px 15px 15px maroon;
+    border-radius: 10px;
+}
