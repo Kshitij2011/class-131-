@@ -27,7 +27,7 @@ function gotResult(error, results){
 }
 
 function preload(){
-    img = loadImage('fruit_basket.png');   
+    img = loadImage('bottles.jpeg');   
 }
 
 function draw(){
